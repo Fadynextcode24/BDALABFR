@@ -1,0 +1,2 @@
+08:00 server started
+09:15 user login admin

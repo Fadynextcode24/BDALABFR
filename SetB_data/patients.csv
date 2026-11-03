@@ -1,0 +1,12 @@
+patient_id,name,age,gender,ward,bill_amount,days_admitted
+P01,Arjun,45,m,Cardiology,85000,6
+P02,Beena,,F,General,12000,2
+P03,Cherian,72,M,,54000,9
+P04,Dilna,8,f,Pediatrics,18000,3
+P05,Eapen,66,M,Cardiology,,7
+P06,Farah,29,F,General,9500,1
+P07,George,15,m,Pediatrics,22000,4
+P03,Cherian,72,M,,54000,9
+P08,Hiba,38,F,Orthopedics,47000,5
+P09,Ismail,,M,Orthopedics,61000,8
+P10,Jancy,81,F,Cardiology,98000,10
